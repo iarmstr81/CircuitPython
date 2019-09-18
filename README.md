@@ -1,5 +1,6 @@
 # CircuitPython
 This repo has all of my CircuitPython assignments. 
+
 fading_led: Makes an led fade from on to off and back.
  
 lcd_button_press: Makes it so when you press the button a number prints on the lcd screen. It also has a switch that makes it either count up or down.
