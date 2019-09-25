@@ -10,3 +10,5 @@ servo_touch_control: Code for when you have two wires in the metroExpress plus a
 photointerrupter: Code for a photo interrupter. When the photo interrupter is interupted it prints the number of times it has been interrupted on the serial monitor aswell as that it has been interrupted.
 
 Distance_sensor: as you move slowly away from the distance sensor the led on the Metroexpress fades from red to blue to green. 
+
+rgb.py: this code creates a module and class to make a code that we were given to work. The code goes through a series of colors two at a time and then at the end fades through the rainbow. We did this using 2 rgb leds.
