@@ -1,3 +1,6 @@
+import digitalio #pylint: disable-msg=import-error
+import time 
+
 class fancyLED:
 
     def __init__(self,a,b,c):
@@ -6,6 +9,7 @@ class fancyLED:
 
     def alternate(self):
         #alternate fancy 1
+        
         print("hi")
 
     def blink(self):
