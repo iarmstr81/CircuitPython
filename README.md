@@ -12,3 +12,5 @@ photointerrupter: Code for a photo interrupter. When the photo interrupter is in
 Distance_sensor: as you move slowly away from the distance sensor the led on the Metroexpress fades from red to blue to green. 
 
 rgb.py: this code creates a module and class to make a code that we were given to work. The code goes through a series of colors two at a time and then at the end fades through the rainbow. We did this using 2 rgb leds.
+
+FancyLED and two_fancy: this is code that is combining using class and LEDs. We were given the code on two_fancy I then just changed the pins to work for me. After that I wrote the code for what each function would do. For example blink makes 3 of the LEDs to all flash at the same time. I then did that for each function in the code we were given.
