@@ -9,6 +9,8 @@ a2 = board.D5
 b2 = board.D6
 c2 = board.D7
 
+print("fancy LED!")
+
 fancy1 = fancyLED(2,3,4)
 fancy2 = fancyLED(5,6,7)
 
