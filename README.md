@@ -7,17 +7,17 @@ Makes an led fade from on to off and back.
 ## Lesson(s) Learned
 - How to use elif (else if)
 
-# Lcd Button Press
-## Description
-Makes it so when you press the button a number prints on the lcd screen. It also has a switch that makes it either count up or down.
-## Lesson(s) Learned
-- How to download and use different libraries.
-
 # Servo Touch Control
 ## Description 
 Code for when you have two wires in the metroExpress plus a servo wired. When you touch one wire it turns one way and vice versa.
 ## Lesson(s) Learned
 - You can touch a wire that is in a digitalpin and make it do something.
+
+# Lcd Button Press
+## Description
+Makes it so when you press the button a number prints on the lcd screen. It also has a switch that makes it either count up or down.
+## Lesson(s) Learned
+- How to download and use different libraries.
 
 # Photo Interrupter
 ## Description 
