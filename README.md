@@ -7,6 +7,16 @@ This repo has all of my CircuitPython assignments.
 
 -[Servo Touch Control](#Servo-Touch-Control)
 
+-[LCD Button Press](#Lcd-Button-Press)
+
+-[Photo Interrupter](#Photo-Interrupter)
+
+-[Distance Sensor](#Distance-Sensor)
+
+-[RGB](#RGB)
+
+-[Fancy LED and Two Fancy](#FancyLED-and-Two-Fancy)
+
 # Fading LED
 ## Description
 Makes an led fade from on to off and back.
