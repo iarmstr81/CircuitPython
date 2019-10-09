@@ -1,6 +1,9 @@
 # CircuitPython
 This repo has all of my CircuitPython assignments. 
 
+#Table of Contents
+*[Fading LED]
+
 # Fading LED
 ## Description
 Makes an led fade from on to off and back.
