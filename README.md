@@ -23,7 +23,6 @@ Makes an led fade from on to off and back.
 - How to use elif (else if)
 ## Picture
 This is a picture of the wiring
-<img src="Media/fancyled.png" width="75">
 
 # Servo Touch Control
 ## Description 
@@ -62,3 +61,7 @@ This is code that is combining using class and LEDs. We were given the code on t
 ## Lesson(s) Learned
 - How to set up different functions in a class
 - How to make multiple LEDs to do different things at the same time.
+## Picture
+This is a picture of the wiring
+
+<img src="Media/fancyled.png" width="`100`">
