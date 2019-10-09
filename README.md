@@ -21,6 +21,9 @@ This repo has all of my CircuitPython assignments.
 Makes an led fade from on to off and back.
 ## Lesson(s) Learned
 - How to use elif (else if)
+## Picture
+This is a picture of the wiring
+<img src="Media/fancyled.png" width="75">
 
 # Servo Touch Control
 ## Description 
