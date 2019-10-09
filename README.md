@@ -3,6 +3,7 @@ This repo has all of my CircuitPython assignments.
 
 #Table of Contents
 *[Fading LED]
+*[Servo Touch Control]
 
 # Fading LED
 ## Description
