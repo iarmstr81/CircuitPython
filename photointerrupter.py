@@ -5,7 +5,7 @@ import time
 button = DigitalInOut (board.D7)
 button.direction = Direction.INPUT
 button.pull = Pull.UP
-#making now and later functions
+#making now and later variables
 now = True
 later = True
 lastTime = 0
