@@ -1,7 +1,7 @@
 # CircuitPython
 This repo has all of my CircuitPython assignments. 
 
-#Table of Contents
+## Table of Contents
 
 -[Fading LED](#Fading-LED)
 
