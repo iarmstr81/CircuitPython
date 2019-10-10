@@ -23,12 +23,15 @@ Makes an led fade from on to off and back.
 - How to use elif (else if)
 ## Picture
 This is a picture of the wiring
+<img src="Media/LED_Fade_Fritzing_bb.png" width="300">
 
 # Servo Touch Control
 ## Description 
 Code for when you have two wires in the metroExpress plus a servo wired. When you touch one wire it turns one way and vice versa.
 ## Lesson(s) Learned
 - You can touch a wire that is in a digitalpin and make it do something.
+## Picture
+<img src="Media/Servo_bb.png" width="300">
 
 # Lcd Button Press
 ## Description
@@ -41,6 +44,8 @@ Makes it so when you press the button a number prints on the lcd screen. It also
 Code for a photo interrupter. When the photo interrupter is interupted it prints the number of times it has been interrupted on the serial monitor aswell as that it has been interrupted.
 ## Lesson(s) Learned
 - How to use the new photointterupters and wire them.
+## Picture
+<img src="Media/Photointerrupter assignment.png" width="300">
 
 # Distance Sensor
 ## Description
