@@ -22,7 +22,8 @@ Makes an led fade from on to off and back.
 ## Lesson(s) Learned
 - How to use elif (else if)
 ## Picture
-This is a picture of the wiring
+This is a diagram of the wiring
+
 <img src="Media/LED_Fade_Fritzing_bb.png" width="300">
 
 # Servo Touch Control
@@ -31,6 +32,8 @@ Code for when you have two wires in the metroExpress plus a servo wired. When yo
 ## Lesson(s) Learned
 - You can touch a wire that is in a digitalpin and make it do something.
 ## Picture
+This is a diagram of the wiring
+
 <img src="Media/Servo_bb.png" width="300">
 
 # Lcd Button Press
@@ -45,6 +48,8 @@ Code for a photo interrupter. When the photo interrupter is interupted it prints
 ## Lesson(s) Learned
 - How to use the new photointterupters and wire them.
 ## Picture
+This is a diagram of the wiring
+
 <img src="Media/Photointerrupter assignment.png" width="300">
 
 # Distance Sensor
