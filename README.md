@@ -18,9 +18,10 @@ This repo has all of my CircuitPython assignments.
 
 # Fading LED
 ## Description
-Makes an led fade from on to off and back.
+Makes an led fade from on to off and back. We were also introduced to the MetroExpress and CircuitPyhthon in this assignment.
 ## Lesson(s) Learned
 - How to use elif (else if)
+- Basics of CircuitPython
 ## Picture
 This is a diagram of the wiring
 
