@@ -64,4 +64,4 @@ This is code that is combining using class and LEDs. We were given the code on t
 ## Picture
 This is a picture of the wiring
 
-<img src="Media/fancyled.png" width="`75`">
+<img src="Media/fancyled.png" width="`25`">
