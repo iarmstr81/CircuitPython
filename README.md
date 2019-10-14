@@ -42,6 +42,10 @@ This is a picture of the wiring
 Makes it so when you press the button a number prints on the lcd screen. It also has a switch that makes it either count up or down.
 ## Lesson(s) Learned
 - How to download and use different libraries.
+## Picture
+This is a picture of the wiring.
+
+<img src="Media/LCDWiring.png" width="300">
 
 # Photo Interrupter
 ## Description 
@@ -49,7 +53,7 @@ Code for a photo interrupter. When the photo interrupter is interupted it prints
 ## Lesson(s) Learned
 - How to use the new photointterupters and wire them.
 ## Picture
-This is a picture of the wiring
+This is a picture of the wiring.
 
 <img src="Media/Photointerrupter assignment.png" width="300">
 
@@ -58,6 +62,10 @@ This is a picture of the wiring
 As you move slowly away from the distance sensor the led on the Metroexpress fades from red to blue to green.
 ## Lesson(s) Learned
 - How to map the distance from the sensor.
+## Picture
+This is a picture of the wiring.
+
+<img src="Media/Distance_Sensor.png" width="300">
 
 # RGB
 ## Description
@@ -65,6 +73,10 @@ This code creates a module and class to make a code that we were given to work. 
 ## Lesson(s) Learned
 - How to turn a RGB different colors.
 - How to make one color fade to the next.
+## Picture
+This is a picture of the wiring.
+
+<img src="Media/FancyLED.png" width="300">
 
 # FancyLED and Two Fancy
 ## Description
