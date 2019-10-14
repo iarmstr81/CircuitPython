@@ -23,7 +23,7 @@ Makes an led fade from on to off and back. We were also introduced to the MetroE
 - How to use elif (else if)
 - Basics of CircuitPython
 ## Picture
-This is a picture of the wiring
+This is a picture of the wiring.
 
 <img src="Media/LED_Fade_Fritzing_bb.png" width="300">
 
@@ -33,7 +33,7 @@ Code for when you have two wires in the metroExpress plus a servo wired. When yo
 ## Lesson(s) Learned
 - You can touch a wire that is in a digitalpin and make it do something.
 ## Picture
-This is a picture of the wiring
+This is a picture of the wiring.
 
 <img src="Media/Servo_bb.png" width="300">
 
@@ -85,6 +85,6 @@ This is code that is combining using class and LEDs. We were given the code on t
 - How to set up different functions in a class
 - How to make multiple LEDs to do different things at the same time.
 ## Picture
-This is a picture of the wiring
+This is a picture of the wiring.
 
 <img src="Media/fancyled.png" width="300">
