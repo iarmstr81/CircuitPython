@@ -76,7 +76,7 @@ This code creates a module and class to make a code that we were given to work. 
 ## Picture
 This is a picture of the wiring.
 
-<img src="Media/FancyLED.png" width="300">
+<img src="Media/FancyLED (2).png" width="300">
 
 # FancyLED and Two Fancy
 ## Description
